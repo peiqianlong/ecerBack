@@ -1,0 +1,25 @@
+// en.js 导出英文对象
+module.exports = {
+    '设置': "Setting",
+    "首页": "Home",
+    "仪表盘": 'Dashboard',
+    '询盘记录': 'Inquiry Record',
+    '我的产品': 'My product',
+    '产品分类': 'Product categories',
+    '优惠活动': 'Activity',
+    '公司信息': 'Information',
+    '新闻资讯': 'News information',
+    '网站编辑': 'Website Editor',
+    '产品': 'Product',
+    '媒体库': 'Media Library',
+    '资讯': 'Consultation',
+    '我的资讯': 'My consultation',
+    '资讯分类': 'Classification',
+    "夏天": "SUMMER",
+    "象牙白": "white",
+    "炫酷黑": "black",
+    "个人资料": "personal data",
+    "博文": "Blog",
+    "博文分类": "blog  Classification",
+    "我的博文": "My Blog"
+}
