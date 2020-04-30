@@ -22,7 +22,7 @@
     "element-ui": "^2.10.1",
     "hls.js": "^0.12.4",
     "http-proxy-middleware": "^0.19.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "less": "^3.9.0",
     "less-loader": "^5.0.0",
     "lib-flexible": "^0.3.2",
